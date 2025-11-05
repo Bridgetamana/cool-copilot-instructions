@@ -1,6 +1,6 @@
 # cool-copilot-instructions
 
-[![Contribution](https://img.shields.io/badge/-contributions_welcome-brightgreen.svg)](https://github.com/Bridgetamana/cool-copilot-instructions/blob/master/CONTRIBUTION.md)
+[![Contribution](https://img.shields.io/badge/-contributions_welcome-brightgreen.svg)](https://github.com/Bridgetamana/cool-copilot-instructions/blob/main/CONTRIBUTING.md)
 
 A personal collection of practical, creative, and useful instructions for GitHub Copilot and other AI assistants.
 This repo is for prompts that solve specific, real-world problems and establish creative workflows. This is a place for the prompts you actually use.
@@ -27,8 +27,6 @@ We welcome contributions. To add a new instruction set:
 - Submit a pull request with a clear title and description explaining the new instruction set.
 
 See the full [CONTRIBUTING.md](./CONTRIBUTING.md) for details.
-
-This visual adds transparency to usage and interest in the repository.
 
 ## License
 
