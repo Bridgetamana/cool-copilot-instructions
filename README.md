@@ -1,5 +1,7 @@
 # cool-copilot-instructions
 
+[![Contribution](https://img.shields.io/badge/-contributions_welcome-brightgreen.svg)](https://github.com/Bridgetamana/cool-copilot-instructions/blob/master/CONTRIBUTION.md)
+
 A personal collection of practical, creative, and useful instructions for GitHub Copilot and other AI assistants.
 This repo is for prompts that solve specific, real-world problems and establish creative workflows. This is a place for the prompts you actually use.
 
